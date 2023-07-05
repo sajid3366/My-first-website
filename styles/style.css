@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.sajid{
+    background:  #1d2026;
+    color: white;
+    height: 620px;
+    width: 100%;
+    position: relative;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+    
+}
+.logo{
+    width: 90px;
+    cursor: pointer;
+
+}
+ul{
+    flex: 1;
+    text-align: right;
+}
+li{
+    display: inline-block;
+    margin: 0 20px;
+    cursor: pointer;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.text-container{
+    max-width: 700px;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.text-container h1{
+    font-size: 60px;
+    font-weight: 400px;
+}
+.text-container h2{
+    font-size: 35px;
+}
+.text-container h3{
+    font-size: 22px;
+}
+.my-photo{
+    width: 300px;
+    height: 350px;
+    margin-left: 120%;
+    margin-top: -270px;
+}
+.address{
+    width: 50px;
+    /* height: 10px; */
+    margin-left: ;
+}
+.image{
+    margin-top: 9%;
+    background: black;
+    height: 78px;
+    
+    padding-left: 15%;
+}
